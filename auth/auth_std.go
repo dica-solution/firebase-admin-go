@@ -20,7 +20,7 @@ package auth
 import (
 	"context"
 
-	"firebase.google.com/go/v4/internal"
+	"github.com/dica-solution/firebase-admin-go/v4/internal"
 )
 
 func newCryptoSigner(ctx context.Context, conf *internal.AuthConfig) (cryptoSigner, error) {

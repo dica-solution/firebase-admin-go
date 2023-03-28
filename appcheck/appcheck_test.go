@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"firebase.google.com/go/v4/internal"
+	"github.com/dica-solution/firebase-admin-go/v4/internal"
 	"github.com/golang-jwt/jwt/v4"
 	"github.com/google/go-cmp/cmp"
 )

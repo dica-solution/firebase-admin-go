@@ -24,7 +24,7 @@ import (
 	"strings"
 	"time"
 
-	"firebase.google.com/go/v4/internal"
+	"github.com/dica-solution/firebase-admin-go/v4/internal"
 	"golang.org/x/oauth2"
 	"google.golang.org/api/option"
 	"google.golang.org/api/transport"

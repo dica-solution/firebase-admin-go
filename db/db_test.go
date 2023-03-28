@@ -28,7 +28,7 @@ import (
 	"runtime"
 	"testing"
 
-	"firebase.google.com/go/v4/internal"
+	"github.com/dica-solution/firebase-admin-go/v4/internal"
 	"google.golang.org/api/option"
 )
 
